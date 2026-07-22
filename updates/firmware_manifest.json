@@ -1,8 +1,8 @@
 ﻿{
-    "latest_version":  "3.0.23",
-    "release_code":  "14Jul26",
-    "release_date_time":  "14Jul26 11:21",
-    "identity_code":  4674,
+    "latest_version":  "3.0.22",
+    "release_code":  "21Jul26",
+    "release_date_time":  "21Jul26 20:45",
+    "identity_code":  4851,
     "models":  "CPH,CPV,HB",
     "change_log":  "Automatic release.",
     "critical":  false
