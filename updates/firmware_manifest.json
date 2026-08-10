@@ -1,9 +1,32 @@
 ﻿{
-    "latest_version":  "3.0.24",
-    "release_code":  "02Aug26",
-    "release_date_time":  "02Aug26 20:00",
-    "identity_code":  5139,
-    "models":  "CPH,CPV,HB",
-    "change_log":  "Automatic release.",
-    "critical":  false
+    "CPH":  {
+                "PUBLIC":  {
+                               "version":  "3.0.24",
+                               "release_code":  "02Aug26",
+                               "identity_code":  5112,
+                               "release_date_time":  "02Aug26 14:13"
+                           },
+                "LOCKED":  {
+                               "version":  "3.0.23",
+                               "release_code":  "14Jul26",
+                               "identity_code":  4656,
+                               "release_date_time":  "14Jul26 14:13"
+                           }
+            },
+    "CPV":  {
+                "PUBLIC":  {
+                               "version":  "3.0.24",
+                               "release_code":  "02Aug26",
+                               "identity_code":  5112,
+                               "release_date_time":  "02Aug26 14:13"
+                           }
+            },
+    "HB":  {
+               "PUBLIC":  {
+                              "version":  "3.0.24",
+                              "release_code":  "02Aug26",
+                              "identity_code":  5112,
+                              "release_date_time":  "02Aug26 14:13"
+                          }
+           }
 }
