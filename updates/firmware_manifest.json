@@ -1,10 +1,10 @@
 ﻿{
     "CPH":  {
                 "PUBLIC":  {
-                               "version":  "Build",
+                               "version":  "3.0.25",
                                "release_code":  "15Aug26",
                                "identity_code":  5444,
-                               "release_date_time":  "15Aug26 20:30",
+                               "release_date_time":  "15Aug26 20:40",
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
