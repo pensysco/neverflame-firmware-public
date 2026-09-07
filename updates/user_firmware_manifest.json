@@ -1,0 +1,32 @@
+{
+    "CPV":  {
+                "DEBUG":  {
+                              "Version":  "3.0.25",
+                              "release_code":  "29Aug26",
+                              "identity_code":  5775,
+                              "release_date_time":  "29Aug26 15:21",
+                              "change_log":  "Automatic release.",
+                              "critical":  false
+                          }
+            },
+    "CPH":  {
+                "DEBUG":  {
+                              "Version":  "3.0.25",
+                              "release_code":  "30Aug26",
+                              "identity_code":  5802,
+                              "release_date_time":  "30Aug26 18:26",
+                              "change_log":  "Automatic release.",
+                              "critical":  false
+                          }
+            },
+    "HB":  {
+               "DEBUG":  {
+                             "Version":  "3.0.25",
+                             "release_code":  "29Aug26",
+                             "identity_code":  5775,
+                             "release_date_time":  "29Aug26 15:06",
+                             "change_log":  "Automatic release.",
+                             "critical":  false
+                         },
+           }
+}
