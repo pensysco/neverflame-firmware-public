@@ -11,10 +11,10 @@
             },
     "CPH":  {
                 "DEBUG":  {
-                              "Version":  "3.0.25",
-                              "release_code":  "30Aug26",
-                              "identity_code":  5802,
-                              "release_date_time":  "30Aug26 18:26",
+                              "Version":  "3.0.26",
+                              "release_code":  "11Sep26",
+                              "identity_code":  6081,
+                              "release_date_time":  "11Sep26 09:51",
                               "change_log":  "Automatic release.",
                               "critical":  false
                           }
@@ -27,6 +27,14 @@
                              "release_date_time":  "29Aug26 15:06",
                              "change_log":  "Automatic release.",
                              "critical":  false
-                         }
+                         },
+               "PRIVATE":  {
+                               "version":  "3.0.25",
+                               "release_code":  "28Aug26",
+                               "identity_code":  5752,
+                               "release_date_time":  "28Aug26 16:08",
+                               "change_log":  "Automatic release.",
+                               "critical":  false
+                           }
            }
 }
