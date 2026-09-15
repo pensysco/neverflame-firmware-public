@@ -17,7 +17,15 @@
                               "release_date_time":  "13Sep26 10:10",
                               "change_log":  "Automatic release.",
                               "critical":  false
-                          }
+                          },
+                "PRIVATE":  {
+                                "Version":  "3.0.27",
+                                "release_code":  "13Sep26",
+                                "identity_code":  6136,
+                                "release_date_time":  "13Sep26 16:40",
+                                "change_log":  "Automatic release.",
+                                "critical":  false
+                            }
             },
     "HB":  {
                "DEBUG":  {
