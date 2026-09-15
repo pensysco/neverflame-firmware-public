@@ -29,10 +29,10 @@
                              "critical":  false
                          },
                "PRIVATE":  {
-                               "version":  "3.0.25",
-                               "release_code":  "28Aug26",
-                               "identity_code":  5752,
-                               "release_date_time":  "28Aug26 16:08",
+                               "Version":  "3.0.27",
+                               "release_code":  "13Sep26",
+                               "identity_code":  6136,
+                               "release_date_time":  "13Sep26 16:24",
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
