@@ -27,10 +27,10 @@
                                 "critical":  false
                             },
                 "PUBLIC":  {
-                               "Version":  "3.0.27",
-                               "release_code":  "13Sep26",
-                               "identity_code":  6139,
-                               "release_date_time":  "13Sep26 19:13",
+                               "Version":  "3.0.28",
+                               "release_code":  "19Sep26",
+                               "identity_code":  6275,
+                               "release_date_time":  "19Sep26 11:05",
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
