@@ -8,5 +8,15 @@
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
+            },
+    "CPV":  {
+                "PUBLIC":  {
+                               "Version":  "3.0.28",
+                               "release_code":  "19Sep26",
+                               "identity_code":  6277,
+                               "release_date_time":  "19Sep26 13:17",
+                               "change_log":  "Automatic release.",
+                               "critical":  false
+                           }
             }
 }
