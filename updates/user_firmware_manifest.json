@@ -18,19 +18,11 @@
                               "change_log":  "Automatic release.",
                               "critical":  false
                           },
-                "PRIVATE":  {
-                                "Version":  "3.0.28",
-                                "release_code":  "19Sep26",
-                                "identity_code":  6275,
-                                "release_date_time":  "19Sep26 11:06",
-                                "change_log":  "Automatic release.",
-                                "critical":  false
-                            },
                 "PUBLIC":  {
                                "Version":  "3.0.28",
                                "release_code":  "19Sep26",
                                "identity_code":  6275,
-                               "release_date_time":  "19Sep26 11:05",
+                               "release_date_time":  "19Sep26 11:33",
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
@@ -43,14 +35,6 @@
                              "release_date_time":  "13Sep26 10:12",
                              "change_log":  "Automatic release.",
                              "critical":  false
-                         },
-               "PRIVATE":  {
-                               "Version":  "3.0.27",
-                               "release_code":  "13Sep26",
-                               "identity_code":  6136,
-                               "release_date_time":  "13Sep26 16:24",
-                               "change_log":  "Automatic release.",
-                               "critical":  false
-                           }
+                         }
            }
 }
