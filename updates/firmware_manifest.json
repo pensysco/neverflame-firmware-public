@@ -1,10 +1,10 @@
-﻿{
+{
     "CPH":  {
                 "PUBLIC":  {
-                               "version":  "3.0.24",
-                               "release_code":  "14Aug26",
-                               "identity_code":  5420,
-                               "release_date_time":  "14Aug26 20:00",
+                               "Version":  "3.0.28",
+                               "release_code":  "19Sep26",
+                               "identity_code":  6275,
+                               "release_date_time":  "19Sep26 11:33",
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
