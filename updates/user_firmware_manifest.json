@@ -1,10 +1,10 @@
 {
     "CPV":  {
                 "DEBUG":  {
-                              "Version":  "3.0.27",
-                              "release_code":  "13Sep26",
-                              "identity_code":  6130,
-                              "release_date_time":  "13Sep26 10:08",
+                              "Version":  "3.0.28",
+                              "release_code":  "19Sep26",
+                              "identity_code":  6277,
+                              "release_date_time":  "19Sep26 13:16",
                               "change_log":  "Automatic release.",
                               "critical":  false
                           }
