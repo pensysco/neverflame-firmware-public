@@ -12,9 +12,9 @@
     "CPH":  {
                 "DEBUG":  {
                               "Version":  "3.0.28",
-                              "release_code":  "19Sep26",
-                              "identity_code":  6275,
-                              "release_date_time":  "19Sep26 11:50",
+                              "release_code":  "24Sep26",
+                              "identity_code":  6397,
+                              "release_date_time":  "24Sep26 13:58",
                               "change_log":  "Automatic release.",
                               "critical":  false
                           }
