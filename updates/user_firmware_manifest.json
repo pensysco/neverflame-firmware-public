@@ -38,5 +38,15 @@
                                "change_log":  "Automatic release.",
                                "critical":  false
                            }
+             },
+    "CPDL":  {
+                 "DEBUG":  {
+                               "Version":  "3.0.28",
+                               "release_code":  "24Sep26",
+                               "identity_code":  6404,
+                               "release_date_time":  "24Sep26 20:18",
+                               "change_log":  "Automatic release.",
+                               "critical":  false
+                           }
              }
 }
