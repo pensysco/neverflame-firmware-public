@@ -22,9 +22,9 @@
     "HB":  {
                "DEBUG":  {
                              "Version":  "3.0.28",
-                             "release_code":  "24Sep26",
-                             "identity_code":  6397,
-                             "release_date_time":  "24Sep26 13:54",
+                             "release_code":  "20Oct26",
+                             "identity_code":  7020,
+                             "release_date_time":  "20Oct26 12:22",
                              "change_log":  "Automatic release.",
                              "critical":  false
                          }
